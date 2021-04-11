@@ -15,31 +15,31 @@ const AboutMe = () => {
 
 			<div className={classes.content}>
 				<div className={classes.left}>
-					Hi! I'm Waqar. I have completed mu undergrad from{" "}
-					<a className={classes.link} href="https://www.buet.ac.bd/web/" target="blank">
-						Buet
+					Hi! I'm Sagar. I am sophomore student pursuing my B.Tech. from{" "}
+					<a className={classes.link} href="https://www.gitjaipur.com" target="blank">
+						GIT Jaipur
 					</a>{" "}
-					and my major is in{" "}
-					<a className={classes.link} href="https://cse.buet.ac.bd/" target="blank">
-						Computer Science and Engineering.
+					in {" "}
+					<a className={classes.link} href="https://gitjaipur.com/computer-science-engineering-it/" target="blank">
+						Computer Science.
 					</a>{" "}
 					<br />
 					<br />
-					I enjoy coding in Python and C++. I also love to make webapps using the MERN stack.
+					I enjoy coding in C++ & Python. I also do web development using MERN Stack.
 					<br />
 					<br />
 					Here are few technologies I have been working with,
 					<br />
 					<ul className={classes.techs}>
-						<li className={classes.lst}>Python</li>
 						<li className={classes.lst}>C++</li>
-						<li className={classes.lst}>C#</li>
+						<li className={classes.lst}>Python</li>
+						<li className={classes.lst}>Jekyll</li>
 						<li className={classes.lst}>JavaScript</li>
-						<li className={classes.lst}>Java</li>
-						<li className={classes.lst}>React.js</li>
+						<li className={classes.lst}>Gatsby</li>
+						<li className={classes.lst}>CSS</li>
 						<li className={classes.lst}>Node.js</li>
-						<li className={classes.lst}>MongoDB</li>
-						<li className={classes.lst}>MySQL</li>
+						<li className={classes.lst}>HTML</li>
+						{/* <li className={classes.lst}>MySQL</li> */}
 					</ul>
 				</div>
 				<div className={classes.right}>

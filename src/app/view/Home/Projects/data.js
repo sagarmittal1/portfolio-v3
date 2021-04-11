@@ -214,11 +214,12 @@ exports.projects = [
 
 exports.featuredProjects = [
 	{
-		name: "Centre for Energy Studies",
+		name: "Course Website for DSA subject",
 		description:
-			"A webapp for the Centre for Energy Studies, BUET. The frontend is made using React js and the backend using Node.js and MongoDB. There's also an admin panel to update the data.",
-		tags: ["React js", "Node.js", "MongoDB", "MERN-Stack"],
-		deployedLink: "http://ces.buet.ac.bd/",
+			"Course curriculum website made using Jekyll .",
+		tags: ["Jekyll", "HTML", "CSS"],
+		deployedLink: "https://sagar.ninja/3-DSA/",
+		gitURL: "https://github.com/sagarmittal1/3-DSA",
 	},
 
 	{
@@ -229,11 +230,11 @@ exports.featuredProjects = [
 		gitURL: "https://github.com/Waqar-107/ChessMaestro",
 	},
 
-	{
-		name: "VashaShikkha",
-		description:
-			"An application that targets to teach English in an interactive way. Different users will be assigned different tasks based on their chosen topic. There are varioud type of exercises, e.g: mcq, sentence matching, word-game etc.",
-		tags: ["React js", "Laravel", "Flutter"],
-		deployedLink: "https://vashasikkha.mainframelabs.ltd/",
-	},
+	// {
+	// 	name: "VashaShikkha",
+	// 	description:
+	// 		"An application that targets to teach English in an interactive way. Different users will be assigned different tasks based on their chosen topic. There are varioud type of exercises, e.g: mcq, sentence matching, word-game etc.",
+	// 	tags: ["React js", "Laravel", "Flutter"],
+	// 	deployedLink: "https://vashasikkha.mainframelabs.ltd/",
+	// },
 ];

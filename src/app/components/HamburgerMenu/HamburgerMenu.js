@@ -83,7 +83,7 @@ const HamburgerMenu = () => {
 						<div className={classes.p2H}>Problem Solving</div>
 					</Link>
 				</div>
-				<div className={classes.hamItem}>
+				{/* <div className={classes.hamItem}>
 					<Link
 						activeClass="active"
 						to="projects"
@@ -96,7 +96,7 @@ const HamburgerMenu = () => {
 						<div className={classes.p1}>05.</div>
 						<div className={classes.p2H}>Work</div>
 					</Link>
-				</div>
+				</div> */}
 				<div className={classes.hamItem}>
 					<Link
 						activeClass="active"
@@ -107,14 +107,14 @@ const HamburgerMenu = () => {
 						duration={500}
 						onClick={handleCheckBox}
 						className={classes.LINK}>
-						<div className={classes.p1}>06.</div>
+						<div className={classes.p1}>05.</div>
 						<div className={classes.p2H}>Contact</div>
 					</Link>
 				</div>
 
 				<div className={classes.resume}>
 					<a
-						href="/Waqars_Resume.pdf"
+						href="/Sagar_Mittal_Resume.pdf"
 						target="blank"
 						className={classes.linkNav}
 						style={{color: Colors.themeFontColor}}>

@@ -49,34 +49,34 @@ const SocialMobile = () => {
 		<div className={classes.outerSurface}>
 			<div className={classes.iconHolder}>
 				<div className={classes.icon}>
-					<a href="https://github.com/Waqar-107" target="blank">
+					<a href="https://github.com/sagarmittal1" target="blank">
 						<GithubIcon iconStyles={classes.SVG} />
 					</a>
 				</div>
 
 				<div className={classes.icon}>
-					<a href="https://bd.linkedin.com/in/waqar-hassan-khan-918a04150" target="blank">
+					<a href="https://linkedin.com/in/sagarmittal5" target="blank">
 						<LinkedinIcon iconStyles={classes.SVG} />
 					</a>
 				</div>
 
 				<div className={classes.icon}>
-					<a href="https://codeforces.com/profile/_lucifer_" target="blank">
+					<a href="https://codeforces.com/profile/mittal_sagar" target="blank">
 						<CodeforcesIcon iconStyles={classes.SVG} />
 					</a>
 				</div>
 
 				<div className={classes.icon}>
-					<a href="https://leetcode.com/waqar_107/" target="blank">
+					<a href="https://leetcode.com/mittal_sagar" target="blank">
 						<LeetCodeIcon iconStyles={classes.SVG} />
 					</a>
 				</div>
 
-				<div className={classes.icon}>
+				{/* <div className={classes.icon}>
 					<a href="https://www.quora.com/profile/Waqar-Hassan-Khan" target="blank">
 						<QuoraIcon iconStyles={classes.SVG} />
 					</a>
-				</div>
+				</div> */}
 			</div>
 		</div>
 	);

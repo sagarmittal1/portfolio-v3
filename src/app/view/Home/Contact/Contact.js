@@ -107,14 +107,14 @@ const Contact = () => {
 			<div className={classes.heading}>05. What's Next?</div>
 			<div className={classes.head2}>Get In Touch</div>
 			<div className={classes.kotha}>
-				I will be working in the software industry for a while now. Alongside it, I will continue to
-				do research on Blockchains.
+				I am looking for internships opportunities in Web-Dev domain. If you think I am the best match
+			 	for your company then drop a mail. :)
 				<br />
-				My Inbox is always opened. You can communicate with me through email or linkedin if you
-				want. I'll try my best to answer back!!!
+				My Inbox is always opened. You can communicate with me through email or linkedIn if you
+				want. I'll try my best to answer back.
 			</div>
 			<div className={classes.mailMe}>
-				<a className={classes.mailLink} href="mailto:waqar.hassan866@gmail.com">
+				<a className={classes.mailLink} href="mailto:mittalsagar006@gmail.com">
 					Say Hello
 				</a>
 			</div>

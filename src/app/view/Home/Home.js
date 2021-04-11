@@ -82,7 +82,7 @@ const Home = () => {
 					<ProblemSolving />
 				</div>
 
-				<div
+				{/* <div
 					id="projects"
 					style={{marginBottom: 90}}
 					className={classes.itemContainer}
@@ -93,7 +93,7 @@ const Home = () => {
 					data-aos-duration="1000"
 					data-aos-easing="ease-in-out">
 					<Project />
-				</div>
+				</div> */}
 
 				<div
 					id="contactMe"

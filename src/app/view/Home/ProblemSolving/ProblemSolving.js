@@ -17,34 +17,35 @@ const ProblemSolving = () => {
 
 			<div className={classes.content}>
 				<div>
-					I have participated in a few inter university programming contests and also participated
-					in preliminary of ACM-ICPC Dhaka Regional thrice. Mostly I have participated in the
+					I am currently doing competitive programming in C++ in various platforms,
+					although I am an newbie but I am trying my best. Mostly I participated in 
 					contests at{" "}
 					<a className={classes.link} href="https://codeforces.com/" target="blank">
-						codeforces
+						Codeforces
 					</a>{" "}
 					and{" "}
-					<a className={classes.link} href="https://leetcode.com/" target="blank">
-						leetcode
+					<a className={classes.link} href="https://codechef.com/" target="blank">
+						CodeChef
 					</a>
 					.<br />
-					<br />I have participated in <span className={classes.stats}>88</span> contests and solved
-					total <span className={classes.stats}>1661</span> problems with a max rating of{" "}
-					<span className={classes.stats}>1658</span> at Codeforces. In leetcode I have participated
-					in <span className={classes.stats}>7</span> contests and solved about{" "}
-					<span className={classes.stats}>310</span> problems with the max rating of{" "}
-					<span className={classes.stats}>1609</span>.
+					{/* <br />I have participated in <span className={classes.stats}>88</span> contests and solved */}
+					<br />I have solved
+					upto <span className={classes.stats}>300</span> problems in various platforms, with a max rating of{" "}
+					<span className={classes.stats}>1461</span> at CodeChef. In codeforces I have participated
+					in <span className={classes.stats}>5</span> contests and solved about{" "}
+					<span className={classes.stats}>60</span> problems with the max rating of{" "}
+					<span className={classes.stats}>793</span>.
 					<br />
-					<br />I have also participated in{" "}
+					{/* <br />I have also participated in{" "}
 					<a className={classes.link} href="./hashcode_2019_certificate.pdf" target="blank">
 						Google HashCode 2019
 					</a>
 					<br />
 					<br />I used to practice at LightOj, HackerRank and Uva too. Currently I'm concentrating
-					on leetcode for my interview preparation.
+					on leetcode for my interview preparation. */}
 				</div>
 
-				<div className={classes.head}>My Codes</div>
+				{/* <div className={classes.head}>My Codes</div>
 				<Grid
 					container
 					spacing={3}
@@ -58,7 +59,7 @@ const ProblemSolving = () => {
 							<OjBox data={obj} />
 						</Grid>
 					))}
-				</Grid>
+				</Grid> */}
 			</div>
 		</div>
 	);

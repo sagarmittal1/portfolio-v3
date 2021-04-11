@@ -28,7 +28,7 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1200"
 				data-aos-easing="ease-in-out">
-				Waqar Hassan Khan
+				Sagar Mittal
 			</div>
 
 			<div

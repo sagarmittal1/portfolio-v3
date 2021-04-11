@@ -69,7 +69,7 @@ const Footer = () => {
 					href="https://github.com/bchiang7/v4"
 					target="blank"
 					style={{marginBottom: 7}}>
-					Originally designed by Brittany Chiang
+					Designed by Brittany Chiang
 				</a>
 				<a className={classes.link} href="https://github.com/Waqar-107/portfolio" target="blank">
 					Re-implemented by Waqar-107
