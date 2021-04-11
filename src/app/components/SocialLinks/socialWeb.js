@@ -7,6 +7,7 @@ import LeetCodeIcon from "../Icons/Leetcode";
 import CodeforcesIcon from "../Icons/Codeforces";
 import LinkedinIcon from "../Icons/Linkedin";
 import QuoraIcon from "../Icons/Quora";
+import HackerrankIcon from "../Icons/Hackerrank"
 
 const styles = makeStyles(() => ({
 	outerSurface: {
@@ -122,11 +123,11 @@ const SocialWeb = () => {
 						</a>
 					</div>
 
-					{/* <div className={classes.icon}>
-						<a href="https://www.quora.com/profile/Waqar-Hassan-Khan" target="blank">
-							<QuoraIcon iconStyles={classes.SVG} />
+					<div className={classes.icon}>
+						<a href="https://www.hackerrank.com/sagarmittal" target="blank">
+							<HackerrankIcon iconStyles={classes.SVG} />
 						</a>
-					</div> */}
+					</div>
 				</div>
 				<div className={classes.iconBoxLayer1}></div>
 			</div>

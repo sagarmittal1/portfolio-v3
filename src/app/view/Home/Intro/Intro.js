@@ -52,8 +52,7 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1400"
 				data-aos-easing="ease-in-out">
-				I am an undergrad student at the Department of CSE, BUET and expecting to graduate by
-				February 2021.
+				I am an undergrad student pursuing B.Tech. in Computer Science from GIT Jaipur.
 			</div>
 
 			<div
@@ -64,8 +63,8 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1500"
 				data-aos-easing="ease-in-out">
-				<a className={classes.mailLink} href="mailto:waqar.hassan866@gmail.com">
-					send me owls!!
+				<a className={classes.mailLink} href="mailto:mittalsagar006@gmail.com">
+					Get in Touch
 				</a>
 			</div>
 		</div>

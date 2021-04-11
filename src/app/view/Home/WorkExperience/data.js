@@ -6,8 +6,9 @@ exports.data = [
 		instituteLink: "https://kwoc.kossiitkgp.org/",
 		date: "Dec 2020 - Jan 2021",
 		description: [
-			"Contributed in open-source projects",
-			"Learned to work in a community & how to interact with people"
+			"An Open Soure event where a participant has to work on a project",
+			"Learned to work in a community & how to interact with people",
+			"Contributed in open-source projects"
 		],
 	},
 

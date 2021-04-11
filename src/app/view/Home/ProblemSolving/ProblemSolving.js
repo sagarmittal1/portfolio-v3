@@ -34,7 +34,7 @@ const ProblemSolving = () => {
 					<span className={classes.stats}>1461</span> at CodeChef. In codeforces I have participated
 					in <span className={classes.stats}>5</span> contests and solved about{" "}
 					<span className={classes.stats}>60</span> problems with the max rating of{" "}
-					<span className={classes.stats}>793</span>.
+					<span className={classes.stats}>894</span>.
 					<br />
 					{/* <br />I have also participated in{" "}
 					<a className={classes.link} href="./hashcode_2019_certificate.pdf" target="blank">
