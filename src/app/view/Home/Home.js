@@ -7,7 +7,7 @@ import AboutMe from "./AboutMe/AboutMe";
 import Education from "./Education/Education";
 import WorkExperience from "./WorkExperience/WorkExperience";
 import ProblemSolving from "./ProblemSolving/ProblemSolving";
-import Project from "./Projects/Project";
+// import Project from "./Projects/Project";
 import Contact from "./Contact/Contact";
 import Footer from "../../components/Footer/Footer";
 

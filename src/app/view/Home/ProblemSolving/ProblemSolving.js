@@ -1,9 +1,9 @@
 import React from "react";
-import {Grid} from "@material-ui/core";
+// import {Grid} from "@material-ui/core";
 
-import data from "./data";
+// import data from "./data";
 import TitleHead from "../../../components/TitleHead/TitleHead";
-import OjBox from "../../../components/ProblemSolving/OjBox";
+// import OjBox from "../../../components/ProblemSolving/OjBox";
 import styles from "./ProblemSolvingStyles";
 
 const ProblemSolving = () => {

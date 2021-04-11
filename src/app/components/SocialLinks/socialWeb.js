@@ -6,7 +6,6 @@ import GithubIcon from "../Icons/Github";
 import LeetCodeIcon from "../Icons/Leetcode";
 import CodeforcesIcon from "../Icons/Codeforces";
 import LinkedinIcon from "../Icons/Linkedin";
-import QuoraIcon from "../Icons/Quora";
 import HackerrankIcon from "../Icons/Hackerrank"
 
 const styles = makeStyles(() => ({
