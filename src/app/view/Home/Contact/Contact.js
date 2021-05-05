@@ -107,7 +107,7 @@ const Contact = () => {
 			<div className={classes.heading}>05. What's Next?</div>
 			<div className={classes.head2}>Get In Touch</div>
 			<div className={classes.kotha}>
-				I am looking for internships opportunities in Web-Dev domain. If you think I am the best match
+				I am looking for internships opportunities in Web-Dev domain. If you think I am the good match
 			 	for your company then drop a mail. :)
 				<br />
 				My Inbox is always opened. You can communicate with me through email or linkedIn if you

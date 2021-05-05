@@ -71,8 +71,8 @@ const Footer = () => {
 					style={{marginBottom: 7}}>
 					Designed by Brittany Chiang
 				</a>
-				<a className={classes.link} href="https://github.com/Waqar-107/portfolio" target="blank">
-					Re-implemented by Waqar-107
+				<a className={classes.link} href="https://github.com/sagarmittal1" target="blank">
+					Re-implemented by sagarmittal1
 				</a>
 			</div>
 		</div>

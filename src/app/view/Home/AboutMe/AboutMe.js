@@ -1,7 +1,7 @@
 import React from "react";
 
 import TitleHead from "../../../components/TitleHead/TitleHead";
-import DP from "../../../assets/khan.jpg";
+import DP from "../../../assets/sagar.jpg";
 import styles from "./AboutMeStyles";
 
 const AboutMe = () => {
@@ -37,7 +37,7 @@ const AboutMe = () => {
 						<li className={classes.lst}>JavaScript</li>
 						<li className={classes.lst}>Gatsby</li>
 						<li className={classes.lst}>CSS</li>
-						<li className={classes.lst}>Node.js</li>
+						<li className={classes.lst}>Django</li>
 						<li className={classes.lst}>HTML</li>
 						{/* <li className={classes.lst}>MySQL</li> */}
 					</ul>
