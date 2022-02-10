@@ -15,7 +15,7 @@ const AboutMe = () => {
 
 			<div className={classes.content}>
 				<div className={classes.left}>
-					Hi! I'm Sagar. I am sophomore student pursuing my B.Tech. from{" "}
+					Hi! I'm Sagar. I am pre-final student pursuing my B.Tech. from{" "}
 					<a className={classes.link} href="https://www.gitjaipur.com" target="blank">
 						GIT Jaipur
 					</a>{" "}
