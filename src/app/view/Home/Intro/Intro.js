@@ -40,7 +40,7 @@ const Intro = () => {
 				data-aos-delay="10"
 				data-aos-duration="1300"
 				data-aos-easing="ease-in-out">
-				I write codes to stay alive :)
+				I build things for the internet.
 			</div>
 
 			<div
